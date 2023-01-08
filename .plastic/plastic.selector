@@ -1,0 +1,4 @@
+repository "Gomoku@wechat_os_qy0xvdpw7q4fjlgikmfdzlj0i@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
